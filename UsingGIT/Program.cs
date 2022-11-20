@@ -6,6 +6,8 @@
         {
             Console.WriteLine("Hello, Git!");
             Console.WriteLine("Hi all");
+            Console.BackgroundColor = ConsoleColor.Green;
+            Console.ResetColor();
 
         }
     }
